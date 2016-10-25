@@ -1,0 +1,9 @@
+.logo {
+	height: 200px; 
+	width: 160px;
+	margin: 150px auto;
+}
+
+#tree {
+	border-bottom: 200px solid #5b9a68;
+}
