@@ -18,3 +18,41 @@
 	background: #3b543f;
 	position: absolute; left: 72px; bottom: -20px;
 }
+
+#left-branch {
+	background: #3b543f;
+	height: 30px; width: 6px;
+	position: absolute;
+	left: -10px;
+	top:15px; 
+
+	transform: rotate(-50deg);
+	-webkit-transform: rotate(-50deg);
+	-moz-transform: rotate(-50deg);
+	-ms-transform: rotate(-50deg);
+	-o-transform: rotate(-50deg);
+
+}
+
+#right-bottom-branch{
+	background: #3b543f;
+	height: 50px; width: 6px;
+	position: absolute; top: 15px; left: 23px;
+	
+	transform: rotate(50deg);
+	-webkit-transform: rotate(50deg);
+	-moz-transform: rotate(50deg);
+	-ms-transform: rotate(50deg);
+	-o-transform: rotate(50deg);
+}
+#right-top-branch{
+	background: #3b543f;
+	height: 27px; width: 6px;
+	position: absolute; top: 2px; left: 20px;
+	
+	transform: rotate(50deg);
+	-webkit-transform: rotate(50deg);
+	-moz-transform: rotate(50deg);
+	-ms-transform: rotate(50deg);
+	-o-transform: rotate(50deg);
+}
